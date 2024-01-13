@@ -1,0 +1,685 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-footer_box {
+  width: 1170px;
+  height: 508.81px;
+  top: 3480.09px;
+  left: 215px;
+  background-color: #F8F8F8;
+  position: absolute;
+}
+
+.main-footer_box h2 {
+  position: absolute;
+  width: 638px;
+  height: 60px;
+  top: 50px;
+  left: 300px;
+  font-size: 36px;
+}
+
+.main-footer_box p {
+  position: absolute;
+  top: 150px;
+  left: 285px;
+  font-size: 18.5px;
+  width: 600px;
+  text-align: center;
+  list-style: 32px;
+}
+
+.main-foooter-box_input {
+  position: absolute;
+  border: 2px solid #0CA941;
+  background-color: white;
+  width: 492px;
+  height: 82px;
+  left: 300px;
+  top: 300px;
+  border-radius: 10px;
+  font-size: 22px;
+}
+
+.main-footer-button {
+  position: absolute;
+  width: 223.42px;
+  height: 81.89px;
+  border-radius: 10px;
+  left: 650px;
+  top: 300px;
+  background-color: #0CA941;
+}
+
+.main-footer-button a {
+  text-decoration: none;
+  position: absolute;
+  font-size: 22px;
+  left: 50px;
+  top: 30px;
+  color: #ffffff;
+}
+
+.main-footer-button:hover {
+  position: absolute;
+  background-color: #01ba3f;
+}
+
+.main-footer-hobby img {
+  position: absolute;
+  width: 145.04px;
+  height: 34.31px;
+  top: 4117.7px;
+  left: 214.91px;
+}
+
+.main-footer-hobby p {
+  position: absolute;
+  top: 4190px;
+  left: 214.91px;
+  font-size: 18px;
+  line-height: 32px;
+  width: 290px;
+}
+
+.main-footer-nav li {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.main-footer-nav img {
+  position: absolute;
+  font-size: 100px;
+  width: 18px;
+  height: 15px;
+}
+
+.main-footer-nav img:hover {
+  position: absolute;
+  width: 38px;
+  height: 35px;
+  background-color: #0CA941;
+  border-radius: 5px;
+}
+
+.main-footer-nav {
+  position: absolute;
+  top: 4350px;
+  left: 214.91px;
+}
+
+.main-footer-Company a {
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+  position: absolute;
+  top: 4190px;
+  left: 600px;
+}
+
+.main-footer-Company a:hover {
+  color: #ff0000;
+  font-size: 18px;
+}
+
+.main-footer-Company-h2 {
+  color: #000;
+  font-size: 18px;
+  top: 4125px;
+  left: 600px;
+  position: absolute;
+}
+
+.a1 {
+  position: absolute;
+  line-height: 90px;
+}
+
+.a2 {
+  position: absolute;
+  line-height: 160px;
+}
+
+.a3 {
+  position: absolute;
+  line-height: 230px;
+}
+
+.a4 {
+  position: absolute;
+  line-height: 290px;
+}
+
+.a5 {
+  position: absolute;
+  line-height: 350px;
+}
+
+.main-footer-Support a {
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+  position: absolute;
+  top: 4190px;
+  left: 850px;
+}
+
+.main-footer-Support a:hover {
+  color: #ff0000;
+  font-size: 18px;
+}
+
+.main-footer-Support h2 {
+  color: #000;
+  font-size: 18px;
+  top: 4125px;
+  left: 850px;
+  position: absolute;
+}
+
+.a11 {
+  position: absolute;
+  line-height: 90px;
+}
+
+.a12 {
+  position: absolute;
+  line-height: 160px;
+}
+
+.a13 {
+  position: absolute;
+  line-height: 230px;
+}
+
+.a14 {
+  position: absolute;
+  line-height: 290px;
+}
+
+.a15 {
+  position: absolute;
+  line-height: 350px;
+}
+
+.main-footer-Contact a {
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+  position: absolute;
+  top: 4190px;
+  left: 1100px;
+}
+
+.main-footer-Contact a:hover {
+  color: #ff0000;
+  font-size: 18px;
+}
+
+.h2 {
+  color: #000;
+  font-size: 18px;
+  top: 4125px;
+  left: 1100px;
+  position: absolute;
+}
+
+.a21 {
+  position: absolute;
+  line-height: 90px;
+}
+
+.h21 {
+  position: absolute;
+  top: 4270px;
+  left: 1100px;
+  font-size: 18px;
+}
+
+.a22 {
+  position: absolute;
+  line-height: 230px;
+}
+
+.h22 {
+  position: absolute;
+  top: 4340px;
+  left: 1100px;
+  font-size: 18px;
+}
+
+.a23 {
+  position: absolute;
+  line-height: 370px;
+}
+
+.main-footer-the_and-nav li {
+  display: inline-block;
+  margin-right: 240px;
+  position: relative;
+}
+
+.main-footer-the_and-nav img {
+  position: absolute;
+}
+
+.main-footer-the_and-nav {
+  position: absolute;
+  top: 4500px;
+  left: 214.91px;
+  width: 1500px;
+}
+
+.zafar {
+  position: absolute;
+  width: 1167;
+  height: 200px;
+  background-color: #BF7949;
+  top: 5000px;
+  left: 214.91px;
+}
+
+.main-headr-img {
+  position: absolute;
+  width: 134.26px;
+  height: 229.52px;
+  left: 32.93px;
+}
+
+.main-headr-img1 {
+  position: absolute;
+  width: 145.04px;
+  height: 34.31px;
+  top: 48.15px;
+  left: 214.91px;
+}
+
+.nav li {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+}
+
+.nav a:hover {
+  color: rgb(210, 49, 102);
+}
+
+.nav a:active {
+  color: rgb(0, 60, 255);
+}
+
+.nav {
+  top: 59px;
+  left: 600px;
+  position: relative;
+}
+
+.button a {
+  text-decoration: none;
+  color: white;
+  top: 10px;
+  left: 30px;
+  position: absolute;
+  font-size: 18px;
+}
+
+.button {
+  position: absolute;
+  width: 110.17px;
+  height: 41.53px;
+  top: 44.54px;
+  left: 1200px;
+  border-radius: 6px;
+  background-color: #0CA941;
+}
+
+.button a:hover {
+  top: 10px;
+  left: 40px;
+}
+
+.button:hover {
+  width: 130px;
+  height: 45px;
+  border-radius: 6px;
+  font-size: 20px;
+}
+
+.main-hero_text img {
+  position: absolute;
+  width: 616.56px;
+  height: 216.68px;
+  top: 268.27px;
+  left: 215px;
+}
+
+.main-hero_text p {
+  position: absolute;
+  width: 534.47px;
+  height: 58.86px;
+  top: 523.73px;
+  left: 215px;
+  font-size: 18px;
+}
+
+.main-hero_button a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 20px;
+  left: 50px;
+  position: absolute;
+  font-size: 18px;
+}
+
+.main-hero_button {
+  position: absolute;
+  width: 179.78px;
+  height: 67.11px;
+  top: 600px;
+  left: 215px;
+  border-radius: 100%;
+  background-color: rgb(252, 253, 253);
+  border: 2px solid #0CA941;
+}
+
+.main-hero_button a:hover {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 25px;
+  left: 45px;
+  position: absolute;
+  font-size: 25px;
+}
+
+.main-hero_button:hover {
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  border-radius: 100%;
+}
+
+.main-hero-img1 {
+  position: absolute;
+  width: 105.8px;
+  height: 79.24px;
+  top: 620px;
+  left: 540px;
+}
+
+.main-hero-img3 {
+  position: absolute;
+  width: 600px;
+  height: 700px;
+  top: 169.79px;
+  left: 861.4px;
+}
+
+.main-hero-img2 {
+  position: absolute;
+  width: 168.87px;
+  height: 247.94px;
+  top: 690px;
+  left: 700px;
+}
+
+.main-hero-img4 {
+  position: absolute;
+  width: 1291.87px;
+  height: 350.4px;
+  top: 985.75px;
+  left: 215px;
+  border-radius: 28px;
+}
+
+.main-hero_1-blim-img {
+  position: absolute;
+  width: 637.75px;
+  height: 527.35px;
+  top: 1362.61px;
+  left: 350px;
+}
+
+.main-hero_1-blim h2 {
+  position: absolute;
+  width: 353px;
+  top: 1411.74px;
+  left: 1050px;
+  font-size: 36px;
+}
+
+.main-hero_1-blim p {
+  position: absolute;
+  top: 1500px;
+  left: 1050px;
+  font-size: 18px;
+  width: 420px;
+  line-height: 32px;
+}
+
+.main-hero-1-blim_button a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 20px;
+  left: 50px;
+  position: absolute;
+  font-size: 18px;
+}
+
+.main-hero-1-blim_button {
+  position: absolute;
+  width: 179.78px;
+  height: 67.11px;
+  top: 1650px;
+  left: 1050px;
+  border-radius: 100%;
+  background-color: rgb(252, 253, 253);
+  border: 2px solid #0CA941;
+}
+
+.main-hero-1-blim_button a:hover {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 25px;
+  left: 45px;
+  position: absolute;
+  font-size: 25px;
+}
+
+.main-hero-1-blim_button:hover {
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  border-radius: 100%;
+}
+
+.main-hero_1-blim-img1 {
+  position: absolute;
+  top: 1675px;
+  left: 1300px;
+}
+
+.main-hero-2-blim-img {
+  position: absolute;
+  width: 606.42px;
+  height: 559.68px;
+  top: 1978.77px;
+  left: 790.44px;
+}
+
+.main-hero_2-blim h2 {
+  position: absolute;
+  width: 355px;
+  height: 44.29px;
+  top: 2040.37px;
+  left: 226.43px;
+  font-size: 36px;
+}
+
+.main-hero-2-blim-p {
+  position: absolute;
+  font-size: 18px;
+  width: 393px;
+  top: 2115.04px;
+  left: 226.43px;
+  line-height: 32px;
+}
+
+.main-hero-2-blim-p1 {
+  position: absolute;
+  font-size: 18px;
+  width: 393px;
+  top: 2280px;
+  left: 226.43px;
+  line-height: 32px;
+}
+
+.main-hero-2-blim_button a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 20px;
+  left: 50px;
+  position: absolute;
+  font-size: 18px;
+}
+
+.main-hero-2-blim_button {
+  position: absolute;
+  width: 179.78px;
+  height: 67.11px;
+  top: 2400px;
+  left: 226.43px;
+  border-radius: 100%;
+  background-color: rgb(252, 253, 253);
+  border: 2px solid #0CA941;
+}
+
+.main-hero-2-blim_button a:hover {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 25px;
+  left: 45px;
+  position: absolute;
+  font-size: 25px;
+}
+
+.main-hero-2-blim_button:hover {
+  position: absolute;
+  width: 200px;
+  height: 80px;
+  border-radius: 100%;
+}
+
+.main-hero-2-blim-img1 {
+  position: absolute;
+  top: 2425px;
+  left: 500px;
+}
+
+.main-hero_3-blim-img {
+  position: absolute;
+  width: 1169.92px;
+  height: 637.34px;
+  top: 2708px;
+  left: 215px;
+}
+
+.main-hero_3-blim_button {
+  position: absolute;
+  border: 2px solid black;
+  width: 129px;
+  height: 44px;
+  top: 3272px;
+  border-radius: 10px;
+  left: 410px;
+  background-color: white;
+}
+
+.main-hero_3-blim_button a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 10px;
+  left: 15px;
+  position: absolute;
+  font-size: 18px;
+}
+
+.main-hero_3-blim_button:hover {
+  position: absolute;
+  background-color: rgb(0, 0, 0);
+}
+
+.main-hero_3-blim_button a:hover {
+  color: rgb(255, 255, 255);
+  position: absolute;
+}
+
+.main-hero_3-blim_button1 {
+  position: absolute;
+  border: 2px solid black;
+  width: 129px;
+  height: 44px;
+  top: 3272px;
+  border-radius: 10px;
+  left: 815px;
+  background-color: white;
+}
+
+.main-hero_3-blim_button1 a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 10px;
+  left: 15px;
+  position: absolute;
+  font-size: 18px;
+}
+
+.main-hero_3-blim_button1:hover {
+  position: absolute;
+  background-color: rgb(5, 5, 5);
+}
+
+.main-hero_3-blim_button1 a:hover {
+  color: rgb(255, 255, 255);
+}
+
+.main-hero_3-blim_button2 {
+  position: absolute;
+  border: 2px solid black;
+  width: 129px;
+  height: 44px;
+  top: 3272px;
+  border-radius: 10px;
+  left: 1220px;
+  background-color: white;
+}
+
+.main-hero_3-blim_button2 a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  top: 10px;
+  left: 15px;
+  position: absolute;
+  font-size: 18px;
+}
+
+.main-hero_3-blim_button2:hover {
+  position: absolute;
+  background-color: rgb(0, 0, 0);
+}
+
+.main-hero_3-blim_button2 a:hover {
+  color: rgb(255, 255, 255);
+  position: absolute;
+}
+
+/*# sourceMappingURL=main.css.map */
