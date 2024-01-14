@@ -19,74 +19,9 @@ left: 32.93px;
 }
 
 
-// main-header-nav Start
-.nav li {
-    display: inline-block;
-    margin-right: 40px;
-
-}
 
 
-.nav a {
-    text-decoration: none;
-    color: black;
-font-size: 18px;
-    
-}
 
-.nav a:hover{
-    color:  rgba(210, 49, 102, 1);
-
-}
-
-.nav a:active {
-    color: rgb(0, 60, 255);
-}
-
-
-.nav {
-    top: 59px;
-left: 600px;
-position: relative;
-}
-
-// main-header-nav And
-
-// main-header-button Start
-.button a {
-    text-decoration: none;
-    color: white;   
-top: 10px;
-left: 30px;
-position: absolute;
-font-size: 18px;
-}
-
-.button{
-position: absolute;
-width: 110.17px;
-height: 41.53px;
-top: 44.54px;
-left: 1200px;
-border-radius: 6px;
-background-color: #0CA941;
-
-}
-
-.button a:hover{  
-top: 10px;
-left: 40px;
-
-}
-
-.button:hover{
-width: 130px;
-height: 45px;
-border-radius: 6px;
-font-size: 20px;
-
-}
-// main-header-button And
 
 // main-header And
 

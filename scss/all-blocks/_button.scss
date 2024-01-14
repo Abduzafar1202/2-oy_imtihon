@@ -1,0 +1,147 @@
+// main-header-button Start
+.button a {
+    text-decoration: none;
+    color: white;   
+top: 10px;
+left: 30px;
+position: absolute;
+font-size: 18px;
+}
+
+.button{
+position: absolute;
+width: 110.17px;
+height: 41.53px;
+top: 44.54px;
+left: 1200px;
+border-radius: 6px;
+background-color: #0CA941;
+
+}
+
+.button a:hover{  
+top: 10px;
+left: 40px;
+
+}
+
+.button:hover{
+width: 130px;
+height: 45px;
+border-radius: 6px;
+font-size: 20px;
+
+}
+// main-header-button And
+
+
+
+// main-hero_button Start
+.main-hero_button a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);   
+top: 20px;
+left: 50px;
+position: absolute;
+font-size: 18px;
+}
+
+.main-hero_button{
+position: absolute;
+width: 179.78px;
+height:67.11px;
+top: 600px;
+left: 215px;
+border-radius:100%;
+background-color: rgb(252, 253, 253);
+border: 2px solid #0CA941;
+
+}
+
+.main-hero_button a:hover {
+    text-decoration: none;
+    color: rgb(0, 0, 0);   
+top: 25px;
+left: 45px;
+position: absolute;
+font-size: 25px;
+}
+
+.main-hero_button:hover{
+position: absolute;
+width: 200px;
+height:80px;
+border-radius:100%;
+
+
+}
+//main-hero_button And
+
+
+
+
+//main-footer_box Start
+.main-footer_box{
+    width: 1170px;
+    height: 508.81px;
+    top: 3480.09px;
+    left: 215px;
+background-color: #F8F8F8;
+position: absolute;
+}
+
+.main-footer_box h2{
+position: absolute;
+width: 638px;
+height: 60px;
+top: 50px;
+left: 300px;
+font-size: 36px;
+}
+.main-footer_box p{
+    position: absolute;
+    top: 150px;
+    left: 285px;
+    font-size: 18.5px;
+width: 600px;    
+text-align: center;
+list-style:32px;
+
+}
+.main-foooter-box_input{
+position: absolute;
+border: 2px solid #0CA941;
+background-color: white;
+width:492px;
+height: 82px;
+left: 300px;
+top: 300px;
+border-radius: 10px;
+font-size: 22px;
+}
+.main-footer-button{
+position: absolute;
+width: 223.42px;
+height: 81.89px;
+border-radius: 10px;
+left: 650px;
+top: 300px;
+background-color: #0CA941;
+
+}
+.main-footer-button a{
+text-decoration: none;
+    position: absolute;
+font-size: 22px;
+left: 50px;
+top: 30px;
+color: #ffffff;
+
+}
+.main-footer-button:hover{
+    position: absolute;
+   
+    background-color: #01ba3f;
+    
+    }
+//main-footer_box And
